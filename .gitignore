@@ -1,0 +1,23 @@
+# Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# Crash log files
+crash.log
+
+# Sensitive variables
+terraform.tfvars
+*.tfvars
+
+# Private keys
+*.pem
+id_*
+
+# MacOS
+.DS_Store
+
+# SSH keys
+.ssh/id_*
